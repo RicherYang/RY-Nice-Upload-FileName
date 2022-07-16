@@ -4,8 +4,8 @@ Donate link: https://www.paypal.me/RicherYang
 Tags: upload, filename
 Requires at least: 5.6
 Requires PHP: 7.4
-Tested up to: 5.9
-Stable tag: 1.0.14
+Tested up to: 6.0
+Stable tag: 1.0.5
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.txt
 
@@ -30,7 +30,7 @@ or my [website page](https://ry-plugin.com/ry-nice-upload-filename/forum).
 
 == Changelog ==
 
-= 1.0.3 - 2022/02/05 =
+= 1.0.5 - 2022/07/16 =
 * Change plugin info.
 
 = 1.0.4 - 2019/04/15 =
