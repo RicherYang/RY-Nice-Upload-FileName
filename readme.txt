@@ -5,7 +5,7 @@ Tags: upload, filename
 Requires at least: 5.6
 Requires PHP: 7.4
 Tested up to: 6.0
-Stable tag: 1.0.5
+Stable tag: 1.0.5.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.txt
 
@@ -22,7 +22,7 @@ Rewrite upload filename if not english or number letter
 * PHP 7.4+
 * WordPress 5.6+
 
-== Frequently Asked Questions == 
+== Frequently Asked Questions ==
 
 = Where can I report bugs or contribute to the project? =
 Report bugs on the [GitHub repository](https://github.com/RicherYang/RY-Nice-Upload-FileName/issues),
@@ -30,7 +30,7 @@ or my [website page](https://ry-plugin.com/ry-nice-upload-filename/forum).
 
 == Changelog ==
 
-= 1.0.5 - 2022/07/16 =
+= 1.0.5.1 - 2022/07/16 =
 * Change plugin info.
 
 = 1.0.4 - 2019/04/15 =
