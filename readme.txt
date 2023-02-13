@@ -5,7 +5,7 @@ Tags: upload, filename
 Requires at least: 5.6
 Requires PHP: 7.4
 Tested up to: 6.1
-Stable tag: 1.0.5.2
+Stable tag: 1.0.6
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.txt
 
@@ -30,11 +30,14 @@ or my [website page](https://ry-plugin.com/ry-nice-upload-filename/forum).
 
 == Changelog ==
 
+= 1.0.6 - 2023/02/13 =
+* Change the file extension lowercase.
+
 = 1.0.5.1 - 2022/07/16 =
 * Change plugin info.
 
 = 1.0.4 - 2019/04/15 =
-* Only change filename if not english or number letter
+* Only change filename if not english or number letter.
 
 = 1.0.3 - 2018/03/18 =
 * Change plugin info.
