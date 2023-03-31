@@ -4,8 +4,8 @@ Donate link: https://www.paypal.me/RicherYang
 Tags: upload, filename
 Requires at least: 5.6
 Requires PHP: 7.4
-Tested up to: 6.1
-Stable tag: 1.0.7
+Tested up to: 6.2
+Stable tag: 1.0.7.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.txt
 
