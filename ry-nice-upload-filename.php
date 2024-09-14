@@ -3,7 +3,7 @@
  * Plugin Name: RY Nice Upload FileName
  * Plugin URI: https://ry-plugin.com/ry-nice-upload-filename
  * Description: Rewrite upload filename if not english or number letter
- * Version: 1.0.8
+ * Version: 1.0.9
  * Requires at least: 5.6
  * Requires PHP: 7.4
  * Author: Richer Yang
@@ -14,7 +14,7 @@
 function_exists('plugin_dir_url') or exit('No direct script access allowed');
 
 add_filter('sanitize_file_name', 'RY_NUFN_sanitize_file_name', 10, 2);
-function RY_NUFN_sanitize_file_name($filename, $filename_raw)
+function RY_NUFN_sanitize_file_name($file_name, $filename_raw)
 {
     $parts = explode('.', $file_name);
     if (1 == count($parts)) {
